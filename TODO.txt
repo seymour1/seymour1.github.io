@@ -1,0 +1,8 @@
+Name
+UMBC Photo
+Bio
+Resume Link
+Github Link
+Kaggle Link
+All publications link
+Contact
